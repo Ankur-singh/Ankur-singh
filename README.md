@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently pursuing Masters in Software Engineering (MSSE) at SJSU, California. Before this, I was leading the ML team at [zoop.one](http://zoop.one/). You can learn more about me and my work, [here](http://ankur-singh.github.io/).
+
 <!--
 **Ankur-singh/Ankur-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=Ankur-singh&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur-singh&layout=compact&theme=dracula)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ankur-singh&color=gray)
